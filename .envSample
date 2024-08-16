@@ -1,2 +1,2 @@
 PORT=3000
-ATLAS_DB_URL="mongodb+svr"
+ATLAS_DB_URL="mongodb+srv://gouravmarch20:<PASSWORD>@cluster0.pcxkc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
